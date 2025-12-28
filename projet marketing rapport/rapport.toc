@@ -1,0 +1,8 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Presentation du site Recycled Tech}{2}{}%
+\contentsline {section}{\numberline {2}Inscription et authentification}{2}{}%
+\contentsline {section}{\numberline {3}Utilisation du site}{3}{}%
+\contentsline {section}{\numberline {4}Catalogue des produits}{5}{}%
+\contentsline {section}{\numberline {5}Base de donnees}{5}{}%
+\contentsline {section}{\numberline {6}Justification du bon fonctionnement}{7}{}%
+\contentsline {section}{\numberline {7}Conclusion}{9}{}%
